@@ -6,3 +6,5 @@ Employee Data Microservice: Manages individual employee records, including perso
 Department Data Microservice: Handles department-related information such as department names, managers, and associated teams.​
 
 Team Data Microservice: Focuses on team-specific details, including team members, projects, and assignments.
+
+The communication between these 3 services is established using RestTemplate.
